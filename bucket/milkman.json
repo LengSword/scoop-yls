@@ -1,0 +1,21 @@
+{
+    "version": "5.3.0",
+    "description": "Milkman - An Extensible Request/Response Workbench",
+    "homepage": "https://github.com/warmuuh/milkman",
+    "license": "MIT",
+    "url": "https://github.com/warmuuh/milkman/releases/download/5.3.0/milkman-dist-win64-bin.zip",
+    "hash": "3b4ce7405377f8cdb430a692006b258c57ddba867e2d1e1209be11ea357aadf6",
+    "extract_dir": "milkman-5.3.0",
+    "bin": "milkman.exe",
+    "shortcuts": [
+        [
+            "milkman.exe",
+            "Milkman"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/warmuuh/milkman/releases/download/$version/milkman-dist-win64-bin.zip",
+        "extract_dir": "milkman-$version"
+    }
+}
