@@ -1,12 +1,12 @@
 {
-    "version": "0.11.9",
+    "version": "0.11.10",
     "description": "Web-based PostgreSQL database browser written in Go.",
     "homepage": "https://github.com/sosedoff/pgweb",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/sosedoff/pgweb/releases/download/v0.11.9/pgweb_windows_amd64.exe.zip",
-            "hash": "5f7d1950a9a7db463c0e9f59852af44ba4b4f02f743bb548030d9d61fba094d1",
+            "url": "https://github.com/sosedoff/pgweb/releases/download/v0.11.10/pgweb_windows_amd64.exe.zip",
+            "hash": "7e2aa1efaee87c396fc478ef5769c53dece7cb063a003e3c0a15299c99e00b37",
             "bin": [
                 [
                     "pgweb_windows_amd64.exe",
@@ -15,8 +15,8 @@
             ]
         },
         "32bit": {
-            "url": "https://github.com/sosedoff/pgweb/releases/download/v0.11.9/pgweb_windows_386.exe.zip",
-            "hash": "cb2652f8899e0479e66434ea439f2bd12efd67a5f929a394077bd7910d69d77f",
+            "url": "https://github.com/sosedoff/pgweb/releases/download/v0.11.10/pgweb_windows_386.exe.zip",
+            "hash": "7fa67d0c57c777d44d3011e672801e90af3cb82d4214173092c22160bc0b5e3e",
             "bin": [
                 [
                     "pgweb_windows_386.exe",
