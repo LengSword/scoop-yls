@@ -1,10 +1,10 @@
 {
-    "version": "1.1.7",
+    "version": "1.1.8",
     "description": "Todo app based on todo.txt for Linux, Windows and MacOS, free and open-source.",
     "homepage": "https://github.com/ransome1/sleek",
     "license": "MIT",
-    "url": "https://github.com/ransome1/sleek/releases/download/v1.1.7/sleek-1.1.7-win.zip",
-    "hash": "1e8ed3a099af262088722fc4517d45a3c05c447b256b75f29380811e14fe19e0",
+    "url": "https://github.com/ransome1/sleek/releases/download/v1.1.8/sleek-1.1.8-win.zip",
+    "hash": "0c251f10be31b20d8ea51740c60319378a65d842bc56d890f772bae22944ac3e",
     "bin": "sleek.exe",
     "shortcuts": [
         [
