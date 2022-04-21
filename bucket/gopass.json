@@ -11,8 +11,9 @@
     },
     "bin": "gopass.exe",
     "env_set": {
+        "GOPASS_HOMEDIR": "$persist_dir",
+        "GOPASS_CONFIG": "$persist_dir\\config.yml",
         "PASSWORD_STORE_DIR": "$persist_dir\\stores\\root",
-        "GOPASS_CONFIG": "$persist_dir\\config.yml"
     },
     "checkver": {
         "github": "https://github.com/gopasspw/gopass"
