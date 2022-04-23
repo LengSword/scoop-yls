@@ -13,7 +13,7 @@
     "env_set": {
         "GOPASS_HOMEDIR": "$persist_dir",
         "GOPASS_CONFIG": "$persist_dir\\config.yml",
-        "PASSWORD_STORE_DIR": "$persist_dir\\stores\\root",
+        "PASSWORD_STORE_DIR": "$persist_dir\\stores\\root"
     },
     "checkver": {
         "github": "https://github.com/gopasspw/gopass"
