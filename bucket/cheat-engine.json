@@ -33,5 +33,9 @@
             "gtutorial-i386.exe",
             "Cheat Engine Tutorial Games (x86)"
         ]
+    ],
+    "persist": [
+        "autorun",
+        "languages"
     ]
 }
