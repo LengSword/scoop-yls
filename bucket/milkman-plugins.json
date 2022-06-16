@@ -1,12 +1,12 @@
 {
-    "version": "5.4.0",
+    "version": "5.5.0",
     "description": "Milkman - An Extensible Request/Response Workbench",
     "homepage": "https://github.com/warmuuh/milkman",
     "license": "MIT",
-    "url": "https://github.com/warmuuh/milkman/releases/download/5.4.0/milkman-dist-plugins-bin.zip",
-    "hash": "ccbfdec1ba63782e2fc70440fb82b24df33a8857886573b965ed6bb2aec4de6d",
+    "url": "https://github.com/warmuuh/milkman/releases/download/5.5.0/milkman-dist-plugins-bin.zip",
+    "hash": "6305d56df23d1e066d340d0f1c971f4b74fc0b27c356d5ec7b9f0ecc08fd713c",
     "depends": "milkman",
-    "extract_dir": "milkman-5.4.0",
+    "extract_dir": "milkman-5.5.0",
     "installer": {
         "script": [
             "function LinkFile([String] $file, [String] $source = $file) {",
