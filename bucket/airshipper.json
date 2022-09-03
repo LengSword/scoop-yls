@@ -1,10 +1,10 @@
 {
-    "version": "0.7.0",
+    "version": "0.8.0",
     "description": "A cross-platform Veloren launcher.",
     "homepage": "https://github.com/veloren/Airshipper",
     "license": "GPL-3.0-only",
-    "url": "https://github.com/veloren/Airshipper/releases/download/v0.7.0/airshipper-windows.msi#/dl.7z",
-    "hash": "b306d2060759c929ff4990c3e8a96490b046a41818a7cfd3c5816bc05e4ed2aa",
+    "url": "https://github.com/veloren/Airshipper/releases/download/v0.8.0/airshipper-windows.msi#/dl.7z",
+    "hash": "50fd0a42d10b15527b3ae64567e52b2282f99d0a3942c8b9d0fd11ddea77caa2",
     "bin": "airshipper.exe",
     "shortcuts": [
         [
